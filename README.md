@@ -1,0 +1,1 @@
+Screenshots for storytold/soundcraft#1459. Windows 11, Leelawadee UI installed, SoundCraft 0.20.1 (official vs. same tag with the PR diff applied). Text typed with the Thai Kedmanee keyboard into Clips > Find clips: สวัสดี น้ำ บุญฤทธิ์ ปั้นจั่น กี่ปี่ ผู้ใหญ่
